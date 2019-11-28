@@ -1,0 +1,32 @@
+body,h1,h2,h3,h4,h5,h6,p,dl,dd,ul,ol,form,input,textarea,th,td,select{
+    margin:0px;
+    padding:0px;
+}
+em{
+    font-style:normal;
+}
+li{
+    list-style:none;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+img{
+    border:none;
+    vertical-align:top;
+}
+table{
+    border-collapse:collapse;
+}
+input,textarea{
+    outline:none;
+}
+textarea{
+    resize:none;
+    overflow:hidden;
+}
+body{
+    font-size:12px;
+    font-family:"微软雅黑";
+}
